@@ -18,10 +18,11 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Use your machine learning skills to build a predictive model to help a business function more efficiently.
 
 ## Methods Used
-* Inferential Statistics
-* Machine Learning
+* Exploratory Data Analysis
 * Data Visualization
 * Predictive Modeling
+* Predictive Analysis
+* Machine Learning
 
 ## Technologies
 * Python
