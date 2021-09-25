@@ -1,5 +1,5 @@
 # Space X Data Science Capstone
-This project is a part of the Applied Data Science Capstonefrom the [IBM Data Science professional certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
+This project is a part of the Applied Data Science Capstone from the [IBM Data Science professional certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 #### -- Project Status: Completed
 
@@ -30,7 +30,8 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Jupyter notebooks
 
 ### Python frameworks
+* Pandas
 * Matplotlib
 * Seaborn
-* Scikit-learn
-
+* scikit-learn
+* numpy
